@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-sidecar-metadata",
+  "name": "Sidecar Metadata",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Automatically create and manage sidecar .md files with frontmatter for non-markdown assets (images, PDFs, etc.)",
+  "author": "Cody Bontecou",
+  "authorUrl": "https://github.com/CodyBontecou",
+  "isDesktopOnly": false
+}
