@@ -16,6 +16,12 @@ Automatically create and manage **sidecar `.md` files** for every non-markdown a
 
 ## Installation
 
+### From Community Plugins
+
+1. Open **Settings → Community Plugins → Browse**
+2. Search for "Sidecar Metadata"
+3. Click **Install**, then **Enable**
+
 ### From source (manual)
 
 ```bash
