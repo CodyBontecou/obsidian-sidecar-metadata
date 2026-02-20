@@ -87,6 +87,11 @@ npm run build  # production build
 
 The build produces `main.js` in the project root, which Obsidian loads directly.
 
+
+## Inspiration
+
+This plugin was built in response to a request by u/merlinuwe in [this Reddit thread](https://www.reddit.com/r/ObsidianMD/comments/1r8vw0w/anyone_have_a_plugin_request/) — sidecar metadata files for non-markdown assets.
+
 ## License
 
 MIT
